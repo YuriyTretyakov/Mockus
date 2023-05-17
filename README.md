@@ -9,12 +9,25 @@ It consist of:
 
 ## Usage
 
+```
+var mockus = new MockusClient("YOUR_API_URL");
+var mockDataCommand = new MockData()
+                .WhenRequest(new MockRequestOptions()
+                    .WithPathAndMethod("/api/account/getAccountInfo", HttpMethod.Get)
+                    .WithHeaders("Authorization", authorization))
+                .ThenRespond(new MockedResponse()
+                    .WithJsonBody(userInfo)
+                    .WithStatusCode(expectedStatusCode))
+                .Create();
+
+            await mockus.SetMockDataAsync(mockDataCommand);
+```
 
 
 ## Additional Information
 
 
-If you need to se predefined responses (such as HealthChecks) - you need to do it this way:
+If you need to set predefined responses (such as HealthChecks) - you have to do it this way:
 In compose file set proper version for Mockus image and set PREDEFINED_RESPONSE env var this way:
 
 ```
