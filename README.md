@@ -3,8 +3,8 @@
 In order you want to mock your dependencies for integration testing purpose you can use this stuff.
 
 It consist of:
-  backedn part distributed as a docker container: ```docker pull yuriitretiakov/mockus```
-  and client part that is distributed as nuget package
+  - backend part distributed as a docker container. Use `docker pull yuriitretiakov/mockus` and start container.
+  - client part that is distributed as nuget package (not published yet)
   
 
 ## Usage
