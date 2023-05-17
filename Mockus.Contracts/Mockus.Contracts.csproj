@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <AssemblyName>EasyMock.Contracts</AssemblyName>
+    <RootNamespace>EasyMock.Contracts</RootNamespace>
+    <LangVersion>9</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="ExecutionPolicy\" />
+    <None Remove="Options\" />
+    <None Remove="Request\" />
+    <None Remove="Response\" />
+    <None Remove="Enums" />
+    <None Remove="Contracts\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ExecutionPolicy\" />
+    <Folder Include="Options\" />
+    <Folder Include="Request\" />
+    <Folder Include="Response\" />
+    <Folder Include="Contracts\" />
+  </ItemGroup>
+</Project>

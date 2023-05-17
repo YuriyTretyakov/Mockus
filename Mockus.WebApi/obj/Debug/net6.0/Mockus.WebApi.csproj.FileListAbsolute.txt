@@ -1,0 +1,7 @@
+/Users/yuriitretiakov/Documents/code/Code/EasyMock/src/EasyMock/obj/Debug/net6.0/Mockus.WebApi.csproj.AssemblyReference.cache
+/Users/yuriitretiakov/Documents/code/Code/EasyMock/src/EasyMock/obj/Debug/net6.0/Mockus.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuriitretiakov/Documents/code/Code/EasyMock/src/EasyMock/obj/Debug/net6.0/Mockus.WebApi.AssemblyInfoInputs.cache
+/Users/yuriitretiakov/Documents/code/Code/EasyMock/src/EasyMock/obj/Debug/net6.0/Mockus.WebApi.AssemblyInfo.cs
+/Users/yuriitretiakov/Documents/code/Code/EasyMock/src/EasyMock/obj/Debug/net6.0/Mockus.WebApi.csproj.CoreCompileInputs.cache
+/Users/yuriitretiakov/Documents/code/Code/EasyMock/src/EasyMock/obj/Debug/net6.0/Mockus.WebApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/yuriitretiakov/Documents/code/Code/EasyMock/src/EasyMock/obj/Debug/net6.0/Mockus.WebApi.MvcApplicationPartsAssemblyInfo.cache
