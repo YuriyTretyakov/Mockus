@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{A3D4B902-CD55-437D-BE7D-969F0924D27F}|Mockus">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mockus.Contracts/Mockus.Contracts.csproj">
+    <Files>
+      <File FileName="Mockus.WebApi/Program.cs" Line="1" Column="1" />
+      <File FileName="Mockus.Contracts/Request/RequestIdentifier.cs" Line="56" Column="43" />
+      <File FileName="Mockus.Contracts/Mockus.Contracts.csproj" Line="7" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mockus" expanded="True">
+            <Node name="Mockus.Contracts" expanded="True">
+              <Node name="Request" expanded="True" />
+            </Node>
+            <Node name="Mockus.WebApi" expanded="True">
+              <Node name=".editorconfig" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>nums[currentIndex]</Value>
+          <Value>nums[currentIndex]</Value>
+          <Value>nums</Value>
+          <Value>nums.Length</Value>
+          <Value>nums[index]</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Mockus.WebApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

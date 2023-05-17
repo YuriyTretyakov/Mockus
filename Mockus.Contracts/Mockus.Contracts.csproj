@@ -17,13 +17,11 @@
     <None Remove="Request\" />
     <None Remove="Response\" />
     <None Remove="Enums" />
-    <None Remove="Contracts\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="ExecutionPolicy\" />
     <Folder Include="Options\" />
     <Folder Include="Request\" />
     <Folder Include="Response\" />
-    <Folder Include="Contracts\" />
   </ItemGroup>
 </Project>
